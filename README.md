@@ -15,3 +15,6 @@ Este é um projeto desenvolvido com o objetivo de aprender sobre APIs, React Rou
 - **Axios**: Para consumir a API de filmes.
 - **React Router DOM**: Para roteamento entre as páginas do app.
 - **LocalStorage**: Para salvar e gerenciar os filmes favoritados.
+
+## Imagem
+![AnimeDash Screenshot](./image.png)
